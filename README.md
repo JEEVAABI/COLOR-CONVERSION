@@ -167,7 +167,7 @@ cv2.destroyAllWindows()
 ![out](RGBMERGED.png)
 
 ### v) Split and merge HSV Image
-![out](RGBINITIAL.png)
+![out](RGBINITIAL.png )
 
 
 ## Result:
